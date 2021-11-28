@@ -1,5 +1,5 @@
 name = "Fresh Krampus Sack"
-description = "Keep the freshness of the food in the Krampus Sack"
+description = "Keep the freshness of the food in the Krampus Sack."
 author = "Genhai"
 version = "1.0.1"
 forumthread = "None"
